@@ -10,6 +10,9 @@ export default function Dashboard() {
                 </h2>
             }
         >
+            {/* Add / remove a div to have a new build manifest */}
+            <div/>
+
             <Head title="Dashboard" />
 
             <div className="py-12">
